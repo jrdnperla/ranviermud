@@ -18,5 +18,7 @@ log/*.log
 # ignore mkdocs build target
 site/
 
+package-lock.json
+
 # ignore api.ai key
 bundles/ranvier-npc-behaviors/APIAIKEY
